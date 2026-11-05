@@ -1,4 +1,4 @@
-# Wright-Fisher model of genetic drift
+# Genetic Simulatior model of genetic drift
 
 A stochastic simulation of allele frequency change in finite populations,
 used to reproduce three classical results in population genetics.
